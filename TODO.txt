@@ -1,0 +1,2 @@
+June 30 work on r_ etc. As well as the crazy stuff, like cheat commands and aliases.
+June 30 Add support for sub-strings (" "" ")
